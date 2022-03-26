@@ -32,7 +32,6 @@
 
 ### Deploy Page
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/imeshmax936/ALPHA-V4)
-
 </div>
 
 
